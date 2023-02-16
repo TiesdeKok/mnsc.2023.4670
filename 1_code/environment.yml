@@ -1,0 +1,34 @@
+  
+name: covid-empirical
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - xlrd
+  - openpyxl
+  - PyTables
+  - spacy
+  - ipywidgets
+  - requests
+  - seaborn
+  - lxml
+  - cssselect
+  - scipy
+  - yaml
+  - pip:
+    - requests-html
+    - joblib
+    - tqdm
+    - pqdm
+    - unidecode
+    - wrds
+    - orjson
+    - beautifulsoup4
+    - mgzip
+    - pyphen

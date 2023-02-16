@@ -1,0 +1,7 @@
+---
+directories:
+  externalPipeline:
+    Ties: F:\linked_pipeline
+    Hyak: /mmfs1/gscratch/tdekok/linked_pipeline
+    linuxBox: /mnt/data/linked_pipeline
+...
